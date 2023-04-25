@@ -1,2 +1,17 @@
 # BTL_WEB
 source code for report assignment
+
+
+Follow the instructions below to run the app.
+
+1. Clone app to local: git clone https://github.com/haoquachanh/BTL_WEB
+
+2. Copy app to directory of xampp (xampp/htdocs/)
+
+3. Open XAMPP start Apache and start MySQL,
+    For run app: Click Admin of Apache or access http://localhost/ on browser. Choose this app. (It will get error, Go to step 4 to init database)
+    For view database: Click Admin of MySQL or access http://localhost/phpmyadmin/ 
+
+4. In http://localhost/phpmyadmin/ choose `Import > Choose File` -> choose file ../SQL/ecommerce.sql in this app, and click Import
+
+Have a nice day!
