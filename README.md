@@ -1,6 +1,8 @@
 # BTL_WEB
 source code for report assignment
 
+APP is an admin page manager a clothes shop website. 
+
 
 Follow the instructions below to run the app.
 
